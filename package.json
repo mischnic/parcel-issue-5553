@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "parcel build index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@babel/core": "^7.12.10"
+  }
+}
